@@ -4,9 +4,9 @@
 ---
 
 ### 🔭 I’m Currently Working On:
-- 🤖 [AI/ML Projects](https://github.com/HITESHSHARMA1175?tab=repositories&q=AI) – Beginner-level automation tools using Python, pandas, and scikit-learn.
-- 🌐 [MERN Stack Development](https://github.com/HITESHSHARMA1175?tab=repositories&q=MERN) – Building full-stack applications with MongoDB, Express.js, React.js, and Node.js.
-- 📘 [Java DSA](https://github.com/HITESHSHARMA1175?tab=repositories&q=DSA) – Solving challenges via the GFG 160 Days SDE Challenge.
+- 🤖 [AI/ML Projects] – Beginner-level automation tools using Python, pandas, and scikit-learn.
+- 🌐 [MERN Stack Development] – Building full-stack applications with MongoDB, Express.js, React.js, and Node.js.
+- 📘 [Java DSA] – Solving challenges via the GFG 160 Days SDE Challenge.
 
 ---
 
