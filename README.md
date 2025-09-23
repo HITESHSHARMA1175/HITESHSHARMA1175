@@ -1,93 +1,112 @@
-<h1 align="center">Hi 👋, I'm HITESH SHARMA</h1>
-<h3 align="center">🚀 An aspiring Full-Stack Developer, DSA Lover & AI/ML Enthusiast from India</h3>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm <span style="color:#0d6efd;">Hitesh Sharma</span></h1>
+<h3 align="center">🚀 Full-Stack Developer in Progress | 💻 Problem Solver | 🤖 AI/ML Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Projects+🌐;Exploring+AI+%26+Automation+🤖;Passionate+about+DSA+%26+Open+Source+💻;Future+Software+Engineer+in+the+Making+🔥" alt="Typing Animation">
+</p>
 
 ---
 
-### 🔭 I’m Currently Working On:
-- 🤖 [AI/ML Projects] – Beginner-level automation tools using Python, pandas, and scikit-learn.
-- 🌐 [MERN Stack Development] – Building full-stack applications with MongoDB, Express.js, React.js, and Node.js.
-- 📘 [Java DSA] – Solving challenges via the GFG 160 Days SDE Challenge.
+## 🔭 Currently Working On
+- 🌐 **MERN Stack Projects** – Scalable full-stack applications  
+- 🤖 **AI/ML Tools** – Automation with Python, OpenCV & PyTorch  
+- 📘 **Data Structures & Algorithms** – GFG 160 Days SDE Challenge  
 
 ---
 
-### 🌱 I’m Currently Learning:
-React.js • Node.js • Express.js • MongoDB • Java DSA • GitHub • Deployment • English Speaking
+## 🌱 Currently Learning
+- MERN Stack (MongoDB • Express.js • React.js • Node.js)  
+- System Design & Deployment (Docker, GitHub Actions)  
+- Advanced Java DSA + LeetCode/Codeforces practice  
+- English Communication & Technical Writing  
 
 ---
 
-### 👯 I’m Looking to Collaborate On:
-[Open Source MERN Stack Projects](https://github.com/HITESHSHARMA1175) • Hackathons
+## 👯 Looking to Collaborate On
+- Open Source **MERN/AI Projects**  
+- Hackathons & Team Building Competitions  
 
 ---
 
-### 🤝 I’m Looking for Help With:
-[AI-powered automation tools using Python](https://github.com/HITESHSHARMA1175/hands-free-eye-controlled-mouse-system)
+## 🤝 Open to Help With
+- GitHub workflows & contribution setup  
+- Java DSA problem-solving strategies  
+- Career guidance for **aspiring developers**  
 
 ---
 
-### 👨‍💻 All of My Projects Are Available At:
-[GitHub Portfolio → HITESHSHARMA1175](https://github.com/HITESHSHARMA1175)
+## 👨‍💻 Portfolio
+🔗 [**Explore My GitHub Projects**](https://github.com/HITESHSHARMA1175)  
 
 ---
 
-### 📝 I Write Articles At:
-[Medium → @hiteshsharma1175](https://medium.com/@hiteshsharma1175)
+## 📝 Articles & Writing
+✍️ Sharing ideas on **Tech, AI & Career Growth** → [Medium](https://medium.com/@hiteshsharma1175)  
 
 ---
 
-### 💬 Ask Me About:
-Java DSA • React Basics • GitHub Workflow • Personal Development
+## 💬 Ask Me About
+✔️ Java & DSA • MERN Stack Basics • GitHub & Deployment • Productivity & Personal Development  
 
 ---
 
-### 📫 Reach Me At:
-[hiteshsharma1175@gmail.com](mailto:hiteshsharma1175@gmail.com)
+## 📫 How to Reach Me
+📧 Email: [hiteshsharma1175@gmail.com](mailto:hiteshsharma1175@gmail.com)  
+🌍 LinkedIn: [linkedin.com/in/hiteshsharma01](https://linkedin.com/in/hitesh-sharma-0b8959295)  
 
 ---
 
-### ⚡ Fun Fact:
-I can debug Java errors faster than I reply to WhatsApp!
+## ⚡ Fun Fact
+I treat **GitHub commits like journal entries** — one step closer every day 🚀  
 
 ---
 
-## 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hitesh-sharma-0b8959295)
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium)](https://medium.com/@hiteshsharma1175)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/hiteshshacyfe)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/637903)
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/hitesh-sharma-0b8959295" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://medium.com/@hiteshsharma1175" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/hiteshshacyfe" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  </a>
+  <a href="https://discord.gg/637903" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Languages and Tools:
-
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-grey?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap)
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,c,git,docker,opencv,pytorch,blender,bootstrap&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiteshsharma1175&show_icons=true&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsharma1175&layout=compact&theme=tokyonight" height="150">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsharma1175&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiteshsharma1175&show_icons=true&locale=en)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiteshsharma1175)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshsharma1175&theme=tokyonight" height="150">
+</p>
 
 ---
 
 ## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HITESHSHARMA1175&theme=radical&row=1&column=7" alt="Trophies">
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HITESHSHARMA1175&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+## 🎉 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HITESHSHARMA1175&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views"/>
+</p>
