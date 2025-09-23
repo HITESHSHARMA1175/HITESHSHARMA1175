@@ -88,14 +88,17 @@ I treat **GitHub commits like journal entries** — one step closer every day �
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiteshsharma1175&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsharma1175&layout=compact&theme=tokyonight" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiteshsharma1175&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsharma1175&layout=compact&theme=tokyonight&hide_border=true" height="150">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshsharma1175&theme=tokyonight" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshsharma1175&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
 </p>
+
+
 
 ---
 
