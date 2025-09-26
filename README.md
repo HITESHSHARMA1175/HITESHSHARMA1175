@@ -98,7 +98,9 @@ I treat **GitHub commits like journal entries** — one step closer every day �
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshsharma1175&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
 </p>
 
+## 🔥 Holopin Badges  
 
+[![An image of @hiteshsharma1175's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hiteshsharma1175)](https://holopin.io/@hiteshsharma1175)
 
 ---
 
