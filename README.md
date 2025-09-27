@@ -100,7 +100,7 @@ I treat **GitHub commits like journal entries** — one step closer every day �
 
 ## 🔥 Holopin Badges  
 
-[![An image of @hiteshsharma1175's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hiteshsharma1175)](https://holopin.io/@hiteshsharma1175)
+[![An image  of @hiteshsharma1175's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hiteshsharma1175)](https://holopin.io/@hiteshsharma1175)
 
 ---
 
