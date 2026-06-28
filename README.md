@@ -72,23 +72,15 @@ Mission   : Build products used by millions 🚀
 
 </p>
 
----
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HITESHSHARMA1175&theme=tokyonight"/>
+</p>
 
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITESHSHARMA1175&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HITESHSHARMA1175&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
