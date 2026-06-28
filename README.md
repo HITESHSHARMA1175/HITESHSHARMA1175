@@ -5,18 +5,6 @@
 Software Engineer • Full-Stack Developer • AI Engineer
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;MERN+Stack+Developer;AI+%7C+Machine+Learning;Always+Learning+Something+New..." />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HITESHSHARMA1175&style=for-the-badge&color=0e75b6"/>
-<img src="https://img.shields.io/github/followers/HITESHSHARMA1175?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/HITESHSHARMA1175?style=for-the-badge"/>
-</p>
-
----
-
 # 🖥️ whoami
 
 ```bash
