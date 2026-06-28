@@ -1,119 +1,145 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm <span style="color:#0d6efd;">Hitesh Sharma</span></h1>
-<h3 align="center">🚀 Full-Stack Developer in Progress | 💻 Problem Solver | 🤖 AI/ML Explorer</h3>
+````markdown
+<h1 align="center">Hi 👋, I'm Hitesh Sharma</h1>
+
+<h3 align="center">
+Software Engineer • Full-Stack Developer • AI Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Projects+🌐;Exploring+AI+%26+Automation+🤖;Passionate+about+DSA+%26+Open+Source+💻;Future+Software+Engineer+in+the+Making+🔥" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;MERN+Stack+Developer;AI+%7C+Machine+Learning;Always+Learning+Something+New..." />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HITESHSHARMA1175&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/HITESHSHARMA1175?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/HITESHSHARMA1175?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔭 Currently Working On
-- 🌐 **MERN Stack Projects** – Scalable full-stack applications  
-- 🤖 **AI/ML Tools** – Automation with Python, OpenCV & PyTorch  
-- 📘 **Data Structures & Algorithms** – GFG 160 Days SDE Challenge  
+# 🖥️ whoami
+
+```bash
+> whoami
+
+Name      : Hitesh Sharma
+Role      : Software Engineer
+College   : IMS Engineering College
+Degree    : B.Tech CSE (2027)
+
+Backend   : Node.js • Express.js • MongoDB
+Frontend  : React • Next.js • Tailwind CSS
+AI/ML     : OpenCV • PyTorch • MediaPipe
+
+Mission   : Build products used by millions 🚀
+````
 
 ---
 
-## 🌱 Currently Learning
-- MERN Stack (MongoDB • Express.js • React.js • Node.js)  
-- System Design & Deployment (Docker, GitHub Actions)  
-- Advanced Java DSA + LeetCode/Codeforces practice  
-- English Communication & Technical Writing  
+# 💼 Experience
+
+### 🚀 Devolyt Technologies *(Mar 2026 – Present)*
+
+* Enterprise Mobility Management (EMM)
+* Google Android Management API
+* Device Provisioning & Policy Management
+
+### 💻 AAS Educom *(Jan 2026 – Mar 2026)*
+
+* CRM & ERP Development
+* Meta WhatsApp API
+* Razorpay Integration
+
+### 🤖 Soven Developer *(Aug 2025 – Nov 2025)*
+
+* AI Medical Chatbot
+* Medication Tracking
+* Appointment Reminder
 
 ---
 
-## 👯 Looking to Collaborate On
-- Open Source **MERN/AI Projects**  
-- Hackathons & Team Building Competitions  
+# ⚡ Tech Stack
 
----
-
-## 🤝 Open to Help With
-- GitHub workflows & contribution setup  
-- Java DSA problem-solving strategies  
-- Career guidance for **aspiring developers**  
-
----
-
-## 👨‍💻 Portfolio
-🔗 [**Explore My GitHub Projects**](https://github.com/HITESHSHARMA1175)  
-
----
-
-## 📝 Articles & Writing
-✍️ Sharing ideas on **Tech, AI & Career Growth** → [Medium](https://medium.com/@hiteshsharma1175)  
-
----
-
-## 💬 Ask Me About
-✔️ Java & DSA • MERN Stack Basics • GitHub & Deployment • Productivity & Personal Development  
-
----
-
-## 📫 How to Reach Me
-📧 Email: [hiteshsharma1175@gmail.com](mailto:hiteshsharma1175@gmail.com)  
-🌍 LinkedIn: [linkedin.com/in/hiteshsharma01](https://linkedin.com/in/hitesh-sharma-0b8959295)  
-
----
-
-## ⚡ Fun Fact
-I treat **GitHub commits like journal entries** — one step closer every day 🚀  
-
----
-
-## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/hitesh-sharma-0b8959295" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://medium.com/@hiteshsharma1175" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/hiteshshacyfe" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-  </a>
-  <a href="https://discord.gg/637903" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,nodejs,express,react,nextjs,mongodb,mysql,postgres,docker,git,github,linux,tailwind,vscode,postman,figma&perline=7"/>
+
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,c,git,docker,opencv,pytorch,blender,bootstrap&theme=dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HITESHSHARMA1175&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITESHSHARMA1175&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=HITESHSHARMA1175&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiteshsharma1175&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsharma1175&layout=compact&theme=tokyonight&hide_border=true" height="150">
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hiteshsharma1175&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HITESHSHARMA1175&theme=tokyo-night&hide_border=true"/>
 
-
-</p>
-
-## 🔥 Holopin Badges  
-
-[![An image  of @hiteshsharma1175's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hiteshsharma1175)](https://holopin.io/@hiteshsharma1175)
-
----
-
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HITESHSHARMA1175&theme=radical&row=1&column=7" alt="Trophies">
 </p>
 
 ---
 
-## 🎉 Visitor Count
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HITESHSHARMA1175&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HITESHSHARMA1175&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </p>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🚀 Enterprise Backend Development
+🤖 AI & Machine Learning
+⚙️ System Design
+📦 MERN Stack
+☁️ Cloud & DevOps
+🧩 Data Structures & Algorithms
+```
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="mailto:hiteshsharma1175@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/hitesh-sharma-0b8959295">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@hiteshsharma1175">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=footer"/>
+</p>
+```
